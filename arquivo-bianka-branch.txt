@@ -1,1 +1,2 @@
 Um arquivo criado em bianka/new-branch!
+=== Editado localmente ===
